@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Gopall Sharma</h1>
+<h1 align="center">Hi 👋, I'm Gopall Sharma</h1>
 <h3 align="center">Full-Stack Engineer | MERN | Systems-Focused</h3>
 
 <p align="center">
@@ -61,7 +61,7 @@ I’m actively looking to contribute to **high-impact engineering teams** workin
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gopall-93&show_icons=true&count_private=true&theme=shadow_blue&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopall-93&layout=compact&hide=jupyter%20notebook"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopall-93&layout=compact&hide=jupyter%20notebook&theme=shadow_blue&hide_border=true"/>
 </p>
 
 <p align="center">
